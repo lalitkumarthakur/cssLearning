@@ -1,0 +1,18 @@
+.grand-parent {
+    border: 1px solid black;
+    margin: 2rem;  
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 12px 12px 12px rgb(186, 186, 186);
+}
+
+.parent {
+    border: 2px green dotted;
+    padding: 1rem;
+    border-radius: 12px;
+}
+
+.child {
+    border: 2px red dashed;
+    padding: 0.5rem;
+}

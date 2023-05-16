@@ -1,0 +1,19 @@
+#id-head1 { /* seleted the head1 id using # css selector */
+    font-size: 45px; /* applies font size */
+    color:rgb(118, 141, 131);
+}
+  
+  .heading1{ /* .  is used to select class selector and apply style in t. */
+    text-align: center;
+}
+
+.underline-h1 {
+    text-decoration: underline; /* used to add underline in the text */
+}
+
+ #id-para2 { /* # this is used for id selector to select elements of id */
+    color: rgb(255, 156, 7); 
+ }
+
+ /* this is how you comment in css */
+
